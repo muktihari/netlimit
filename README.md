@@ -1,4 +1,10 @@
 # Net Limit
+
+![GitHub Workflow Status](https://github.com/muktihari/netlimit/workflows/CI/badge.svg)
+[![Go Dev Reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/muktihari/netlimit)
+[![CodeCov](https://codecov.io/gh/muktihari/netlimit/branch/master/graph/badge.svg)](https://codecov.io/gh/muktihari/netlimit)
+[![Go Report Card](https://goreportcard.com/badge/muktihari/netlimit)](https://goreportcard.com/report/muktihari/netlimit)
+
 Net Limit is a programming toolkit for limiting the network transfer rate. It wrap net.Conn with rate limiter to achieve limited transfer rate.
 
 ## Background
